@@ -30,6 +30,10 @@ input {
   cursor: pointer;
 }
 
+#searchBtn {
+  padding: 0.5rem 2rem;
+}
+
 button:hover {
   background-color: #0056b3;
 }
